@@ -25,7 +25,7 @@ jumper estaba colocado para que solo enviase un pulso durante el tiempo indicado
 En el segundo,vemos como el sensor ya funciona correctamente al ajustar los tornillos.
 
 Para ver el video 1 sobre el sensor de presencia, pulsa [aqui](https://drive.google.com/file/d/1eGHyPk4TzpwS6tXNx0YoAtnOmYzHVtVp/view?usp=sharing).
-Para ver el video 2 sobre el sensor de presencia, pulsa [aqui](https://drive.google.com/file/d/1o0RCPiRUgLOWhlj3wLzQ05gJH_ioiWLC/view?usp=sharing).
+Para ver el video 2 sobre el sensor de presencia, pulsa [aqui](https://drive.google.com/file/d/1b3hyRx6AsqsTvuRgkNGxKWlDZyfwUoql/view?usp=sharing).
 
 **El esquema de conexión es igual que el facilitado en el enunciado a diferencia de lo que se puede intuir de**
 
